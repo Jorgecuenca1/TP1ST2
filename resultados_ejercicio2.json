@@ -1,0 +1,29 @@
+{
+  "parametros": {
+    "p": 5,
+    "q": 3,
+    "T": 10000,
+    "decimation_factor": 10
+  },
+  "serie": {
+    "media": -0.020438459805558706,
+    "std": 1.4883189105197936,
+    "varianza": 2.2150931794108253
+  },
+  "metricas_globales": {
+    "mae": 1.0550962263282784,
+    "mse": 1.9471982377924912,
+    "rmse": 1.395420451975852,
+    "mape": 156.12967714179794,
+    "correlacion": 0.3489908190564734,
+    "r2": 0.12094070990259165
+  },
+  "observados_vs_interpolados": {
+    "mae_observados": 4.712087715023931e-05,
+    "rmse_observados": 5.8975798511288765e-05,
+    "mae_interpolados": 1.1723239047117369,
+    "rmse_interpolados": 1.4709023071437313,
+    "ratio_mae": 24879.07644363074,
+    "ratio_rmse": 24940.77815431665
+  }
+}
